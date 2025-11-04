@@ -6,5 +6,5 @@
 // - Κάνουμε debug με F5
 
 int main() {
-    printf("waeogjwaigweaohtwavifw8alwfagawifguwaofiuwa\n");
+    printf("waeogjwaigweaohtwavifw8alwfagawifguwaofFiuwa\n");
 }
