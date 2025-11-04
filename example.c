@@ -6,5 +6,5 @@
 // - Κάνουμε debug με F5
 
 int main() {
-    printf("This is a simple C program.\n");
+    printf("waeogjwaigweaohtwavifw8alwfagawifguwaofiuwa\n");
 }
